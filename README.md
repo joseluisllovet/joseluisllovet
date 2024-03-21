@@ -4,7 +4,7 @@
 I am a web page enthusiast, designer and programmer with great interest in continuing to learn every day. Currently, I am open to new adventures in the world of programming, studying daily.
 
 ## Education :books:
-- **Bachelor of Social Science in Advertising and Public Relations from the University of Cádiz. (2019-2023)
+- **Bachelor of Social Science in Advertising and Public Relations** - University of Cádiz. (2019-2023)
 - **Erasmus Exchange Program** - Aarhus University (2022 - 2023), specialized in Focusing on Programming Languages.
 
 
