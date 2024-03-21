@@ -5,7 +5,7 @@ I am a web page enthusiast, designer and frontend developer with great interest 
 
 ## Education :books:
 - **Bachelor of Social Science in Advertising and Public Relations** - University of Cádiz. (2019-2023)
-- **Erasmus Exchange Program** - Aarhus University (2022 - 2023), specialized in Focusing on Programming Languages.
+- **Erasmus Exchange Program** - Aarhus University (2022 - 2023), specialized in Programming Languages.
 
 
 ## Experience :technologist:
