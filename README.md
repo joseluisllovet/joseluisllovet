@@ -20,7 +20,7 @@ I am a web page enthusiast, designer and frontend developer with great interest 
 
 ## Skills 📊
 - **Design Programs**: Figma, Adobe Photoshop.
-- **Web Development**: HTML, CSS, JavaScript, Tailwind, PHP.
+- **Web Development**: HTML, CSS, JavaScript, Tailwind.
 - **Version Control**: Git/GitHub.
 - **Package Managers**: NPM.
 - **Frameworks**: React, Astro.
