@@ -10,7 +10,7 @@ I am a web page enthusiast, designer and frontend developer with great interest 
 
 ## Experience :technologist:
 - **Web Designer Wordpress at BORRADS.COM** - Planning, design and development of new projects to digitize companies. Contribute to the maintenance and updating of +30 websites.
-- **Internship Frontend Developer at NDB Technology** - Develop and design projects strengthening skills in HTML, CSS, JavaScript and Figma. Work on projects acquiring different skills in analytics, SEO and various technologies.
+- **Internship Frontend Developer at NDB Technology** - Develop and design projects strengthening skills in HTML, CSS, JavaScript, Figma and others more. Work on projects acquiring different skills in analytics, SEO and various technologies.
 
 
 ## Projects :file_folder:
@@ -20,8 +20,10 @@ I am a web page enthusiast, designer and frontend developer with great interest 
 
 ## Skills 📊
 - **Design Programs**: Figma, Adobe Photoshop.
-- **Web Development**: HTML, CSS, JavaScript, Astro, Tailwind
-- **Version Control**: Git/GitHub
+- **Web Development**: HTML, CSS, JavaScript, Tailwind, PHP.
+- **Version Control**: Git/GitHub.
+- **Package Managers**: NPM.
+- **Frameworks**: React, Astro.
 
 
 ## Let's Connect!
