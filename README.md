@@ -1,7 +1,7 @@
 # Hello, I'm José Luis Llovet! 👋
 
 ## About Me :sunglasses:
-I am a web page enthusiast, designer and frontend developer with great interest in continuing to learn every day. Currently, I am open to new adventures in the world of programming, studying daily.
+I am a website enthusiast, designer and frontend developer with great interest in continuing to learn every day. Currently, I am open to new adventures in the world of programming, studying daily.
 
 ## Education :books:
 - **Bachelor of Social Science in Advertising and Public Relations** - University of Cádiz. (2019-2023)
