@@ -29,5 +29,6 @@ I am a website enthusiast, designer and frontend developer with great interest i
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/joseluisllr25/)
 - [Personal Blog](https://joseluisllovet.com/)
+- [My CV](https://github.com/joseluisllovet/joseluisllovet/files/14735152/CV-JOSE-LUIS-LLOVET.pdf)
 
 Feel free to check out my repositories and don't hesitate to reach out if you're interested in collaborating on projects that leverage data science to make meaningful impacts.
