@@ -12,7 +12,7 @@ I am a website enthusiast, designer and frontend developer with great interest i
 ## Experience :technologist:
 - **Web Management Student Worker at BORRADS.COM** - Work on the development of pages and landing pages using tools such as HTML, CSS, JavaScrip and Wordpress, and maintain and present reports, and visualizations to provide insights and recommendations based on analysis performed.
 - **Digital Design Intern at NDB Technology** - Work on website redesign, UX analysis and maintenance. Also setting-up social media marketing strategies and content plans and designed visual content materials.
-- **Founder at www.joseluisllovet.com** - Managed a group of clients creating web design, development and maintenance and creating digital marketing strategies for their businesses and social media.
+- **Founder at "joseluisllovet.com"** - Managed a group of clients creating web design, development and maintenance and creating digital marketing strategies for their businesses and social media.
 
 
 ## Projects :file_folder:
