@@ -16,7 +16,8 @@ I am a website enthusiast, designer and frontend developer with great interest i
 
 
 ## Projects :file_folder:
-- **[Personal Portfolio with Astro and Tailwind](https://github.com/joseluisllovet/My-Portfolio-Web)**: Designed and Developed an interactive web application using Astro and Tailwind.
+- **[Personal Portfolio with Astro and Tailwind](https://github.com/joseluisllovet/My-Portfolio-Web)**: Designed and Developed an intera[CV-JOSE LUIS LLOVET.pdf]
+ctive web application using Astro and Tailwind.
 - **[Budget App with HTML, CSS and JavaScript](https://github.com/joseluisllovet/Budget-App)**: Developed an interactive web application using HTML, CSS and JavaScript.
 - **[Calculator App with HTML, CSS and JavaScript](https://github.com/joseluisllovet/Calculator-App)**: Developed using HTML, CSS and JavaScript, it is a web application that allows users to perform basic mathematical operations.
 
@@ -31,6 +32,6 @@ I am a website enthusiast, designer and frontend developer with great interest i
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/joseluisllr25/)
 - [Personal Blog](https://joseluisllovet.com/)
-- [My CV](https://github.com/joseluisllovet/joseluisllovet/files/14735152/CV-JOSE-LUIS-LLOVET.pdf)
+- [My CV](https://github.com/user-attachments/files/16119792/CV-JOSE.LUIS.LLOVET.pdf)
 
 Feel free to check out my repositories and don't hesitate to reach out if you're interested in collaborating on projects that leverage data science to make meaningful impacts.
