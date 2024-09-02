@@ -31,7 +31,7 @@ ctive web application using Astro and Tailwind.
 
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/joseluisllr25/)
-- [Personal Blog](https://joseluisllovet.com/)
+- [Personal Blog](https://joseluisllovet.netlify.app/)
 - [My CV](https://drive.google.com/file/d/1nyoQVNXLoJm6Kp2kaP145LXM29XIkFUv/view?usp=sharing)
 
 Feel free to check out my repositories and don't hesitate to reach out if you're interested in collaborating on projects that leverage data science to make meaningful impacts.
