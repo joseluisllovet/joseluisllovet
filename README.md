@@ -1,18 +1,31 @@
 # Hello, I'm José Luis Llovet! 👋
 
 ## About Me :sunglasses:
-I am a website enthusiast, designer and frontend developer with great interest in continuing to learn every day. Currently, I am open to new adventures in the world of programming, studying daily.
+Graduated in Advertising and Public Relations at the University of Cádiz with an exchange semester at Aarhus University. Currently, I am studying online Master's in Interaction and User Experience Design (UI/UX) in UOC University of Catalonia. I have already experience in Website Design and Development and UX analysis.
+I am passionate about Product Design and UX Design. I have great determination, capable of adapting to different multicultural and teamwork environments.
 
 ## Education :books:
-- **Master of IT & Software industry in UI & UX Design** - Oberta University of Catalonia. (2024-2025)
+- **Master in UI & UX Design** - Oberta University of Catalonia. (2024-2025)
 - **Bachelor of Social Science in Advertising and Public Relations** - University of Cádiz. (2019-2023)
 - **Erasmus Exchange Program** - Aarhus University (2022 - 2023), specialized in Programming Languages.
 
 
 ## Experience :technologist:
-- **Web Management Student Worker at BORRADS.COM** - Work on the development of pages and landing pages using tools such as HTML, CSS, JavaScrip and Wordpress, and maintain and present reports, and visualizations to provide insights and recommendations based on analysis performed.
-- **Digital Design Intern at NDB Technology** - Work on website redesign, UX analysis and maintenance. Also setting-up social media marketing strategies and content plans and designed visual content materials.
-- **Founder at "joseluisllovet.com"** - Managed a group of clients creating web design, development and maintenance and creating digital marketing strategies for their businesses and social media.
+- **Web Management Student Worker at BORRADS.COM** - During my bachelor and Internship I joined BORRADS as a part-time remote. During these months my main tasks in the team were the following:
+• Planningprojects,definingthemandatorysections,targetaudienceanddesired functions.
+• Designing and developing the user interface sections and visual elements of websites.
+• Web maintenance, creation and presentation of reports and visualizations to provide information and recommendations based on the analyzes performed.
+
+- **Digital Design Intern at NDB Technology** - 
+After my exchange semester I joined NDB Techology as a full-time on-site Digital Design Intern. During this time, I could increase my soft skills as well as my UX abilities. My responsibilities have been the following:
+• Website redesign, UX analysis and maintenance.
+• Establishment of social media marketing strategies and content plans as well as the design of visual content materials.
+
+- **Founder at "joseluisllovet.com"** - 
+During my bachelor, I was managing a group of clients (small companies that need to improve their digital brand) with the main tasks of:
+• Searching for new clients through social networks by applying different strategies.
+• Designing and developing websites.
+• Creating digital marketing strategies for client's businesses and social media.
 
 
 ## Projects :file_folder:
